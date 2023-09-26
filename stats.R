@@ -1,6 +1,6 @@
 # #############################
 # Developed by: André Dorigueto Canal
-# Using R to make statistical inference on the data, from boxplots to ANOVAs
+# Using R to make statistical inferences on the data, from boxplots to ANOVAs
 
 # #####################################################################################################################
 # ############## [EXP 1] STATISTICS
